@@ -1,4 +1,4 @@
-## Oi! eu sou a Manu <3
+## Hello! eu sou a Manu <3
 
 
 - Iniciando...
