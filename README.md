@@ -1,8 +1,6 @@
 - Iniciando...
 ## Oi! eu sou a Manu <3
 
-
-- Iniciando...
 - Acadêmica de TADS 
 - Gosto de resolver problemas
 - Apaixonada por desings e interfaces 
