@@ -1,10 +1,7 @@
 Iniciando...
 ## Oi! eu sou a Manu <3
 
-- Acadêmica de TADS 
-- Gosto de resolver problemas
-- Apaixonada por desings e interfaces 
-- Gosto de front, ui/ix, mas também de gestão/análise de sistemas e dados
+Sou apaixonada pelo belo expresso em telas e interfaces. Entusiasta da inovação, encontro no desafio minha maior motivação. Acadêmica de TADS, com técnico em Informática, estudo front-end mobile e web, UI/UX, e recentemente descobri um carinho por administração. Meu objetivo? Trazer beleza e clareza ao mundo, unindo criatividade e funcionalidade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
