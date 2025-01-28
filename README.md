@@ -1,10 +1,10 @@
 Iniciando...
-## Oi! eu sou a Manu <3
+## Ooi! eu sou a Manu <3
 
 - Apaixonada pelo belo expresso em telas
 - Entusiasta da inovação, encontro no desafio minha maior motivação
-- Acadêmica de TADS, com técnico em Informática
-- Estudando front mobile e web, UI/UX, e recentemente descobri um carinho por administração
+- Acadêmica de TADS com formação técnica em Informática
+- Estudando front mobile e web, UI/UX, e recentemente descobri que gosto de tudo que consigo resolver (adm)
 - Meu objetivo? Trazer beleza e clareza ao mundo, unindo criatividade e funcionalidade.
 
 <div style="display: inline_block"><br>
