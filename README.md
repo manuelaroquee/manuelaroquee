@@ -14,12 +14,13 @@
 - Estudando front mobile e web, UI/UX, e recentemente descobri um carinho por administração
 - Meu objetivo? Trazer beleza e clareza ao mundo, unindo criatividade, organização e funcionalidade.
 
+#
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:manuelaroque154@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/manuelaroque154)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://instagram.com/manuelaroquee)
 
-
+#
 
 <h2>&nbsp;𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴</h2>
 <div style="display: inline_block"><br>
