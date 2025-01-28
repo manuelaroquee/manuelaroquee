@@ -8,7 +8,7 @@ Iniciando...
 - Estudando front mobile e web, UI/UX, e recentemente descobri um carinho por administração
 - Meu objetivo? Trazer beleza e clareza ao mundo, unindo criatividade, organização e funcionalidade.
 
-(calma ai que eu to atualizando esse readme aqui... and my life idem)
+
 <div align="display: inline_block"><br>
   <a href="https://instagram.com/manuelaroquee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manuelaroque154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -25,9 +25,8 @@ Iniciando...
 </div>
 
 
- 
+ ##
  <h2>🚀 &nbsp;Desenvolvimento</h2>
-
 <div style="display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/manuelaroquee">
 <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaroquee&layout=compact&langs_count=7&theme=dracula"/>
