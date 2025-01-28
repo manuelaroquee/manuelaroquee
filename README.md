@@ -27,7 +27,7 @@ Iniciando...
 
 
  ##
- <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+ <h2>🚀 &nbsp;Atualmente...</h2>
 
 <div align="center">
 <a href="https://github.com/manuelaroquee">
