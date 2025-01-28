@@ -24,7 +24,7 @@ Iniciando...
   <img align="center" alt="Algoritmos_C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-
+![Snake animation](https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake-dark.svg)
 
  ##
  <h2>🚀 &nbsp;Atualmente...</h2>
