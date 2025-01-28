@@ -24,13 +24,15 @@ Iniciando...
   <img align="center" alt="Algoritmos_C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake-dark.svg)
 
  ##
- <h2>🚀 &nbsp;Atualmente...</h2>
+ <h2>🚀 &nbsp;Por aqui</h2>
 
 <div align="center">
 <a href="https://github.com/manuelaroquee">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manuelaroquee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaroquee&layout=compact&langs_count=8&theme=dracula"/>
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake-dark.svg)
+
