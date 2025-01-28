@@ -7,6 +7,8 @@ Iniciando...
 - Estudando front mobile e web, UI/UX, e recentemente descobri um carinho por administração
 - Meu objetivo? Trazer beleza e clareza ao mundo, unindo criatividade, organização e funcionalidade.
 
+(calma ai que eu to atualizando esse readme)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
