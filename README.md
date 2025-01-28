@@ -4,7 +4,7 @@ Iniciando...
 - Apaixonada pelo belo expresso em telas
 - Entusiasta da inovação, encontro no desafio minha maior motivação
 - Acadêmica de TADS com formação técnica em Informática
-- Estudando front mobile e web, UI/UX, e recentemente descobri que um carinho por administração
+- Estudando front mobile e web, UI/UX, e recentemente descobri um carinho por administração
 - Meu objetivo? Trazer beleza e clareza ao mundo, unindo criatividade e funcionalidade.
 
 <div style="display: inline_block"><br>
