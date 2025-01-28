@@ -15,7 +15,7 @@ Iniciando...
   <a href = "mailto:manuelaroque154@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+  <h2> 🛠 &nbsp;Tech Stack</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,8 +25,8 @@ Iniciando...
 </div>
 
 
- ##
  <h2>🚀 &nbsp;Desenvolvimento</h2>
+ 
 <div style="display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/manuelaroquee">
 <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaroquee&layout=compact&langs_count=7&theme=dracula"/>
