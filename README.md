@@ -25,8 +25,8 @@ Iniciando...
 </div>
 
 
- ##
- <h2>🚀 &nbsp;Por aqui</h2>
+ 
+ <h2>🚀 &nbsp;Desenvolvimento</h2>
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/manuelaroquee">
