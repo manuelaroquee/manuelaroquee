@@ -30,8 +30,8 @@ Iniciando...
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/manuelaroquee">
-<img heigth="lazy"="160em" src="https://github-readme-stats.vercel.app/api?username=manuelaroquee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img heigth="lazy"="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaroquee&layout=compact&langs_count=8&theme=dracula"/>
+<img heigt="lazy"="160em" src="https://github-readme-stats.vercel.app/api?username=manuelaroquee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img heigt="lazy"="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaroquee&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake-dark.svg)
